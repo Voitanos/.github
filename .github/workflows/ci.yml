@@ -18,6 +18,7 @@ jobs:
       - name: Update Voitanos' blog posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
+          readme_path: ./profile/README.md
           feed_list: "https://www.voitanos.io/index.xml"
           comment_tag_name: "VOITANOSBLOG-POST-LIST"
           commit_message: "Update README with Voitanos' latest blog posts"
