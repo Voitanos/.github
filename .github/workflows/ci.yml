@@ -28,6 +28,7 @@ jobs:
       - name: Update Voitanos' YouTube videos
         uses: gautamkrishnar/blog-post-workflow@master
         with:
+          readme_path: ./profile/README.md
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCXeym1FGW2uTlNjYqTCVo0g"
           comment_tag_name: "VOITANOSYOUTUBE-POST-LIST"
           commit_message: "🤖♻️ Update README with Voitanos' latest videos on YouTube channel"
