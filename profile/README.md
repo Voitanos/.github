@@ -19,4 +19,9 @@ Your trusted source for SharePoint Framework & Microsoft 365 developer education
 - Mar 8, 2022 - [Join me at 365EduCon Seattle &lpar;May 2022&rpar; for SharePoint Framework &amp; Azure Functions](https://www.voitanos.io/blog/joinme-365educon-spfest-seattle-2022/)<!-- VOITANOSBLOG-POST-LIST:END -->
 
 ## 📺 Latest videos from the [Voitanos YouTube channel](https://www.youtube.com/voitanosio)
-<!-- VOITANOSYOUTUBE-POST-LIST:START --><!-- VOITANOSYOUTUBE-POST-LIST:END -->
+<!-- VOITANOSYOUTUBE-POST-LIST:START -->
+- Apr 23, 2022 - [&quot;Working with jQuery&quot; - preview from the &quot;Mastering the SPFx&quot; course](https://www.youtube.com/watch?v=nYapLSsTSbA)
+- Apr 23, 2022 - [&quot;Working with Angular&quot; - preview from the &quot;Mastering the SPFx&quot; course](https://www.youtube.com/watch?v=M8d3vrCFIes)
+- Apr 23, 2022 - [&quot;Working with React&quot; - preview from the &quot;Mastering the SPFx&quot; course](https://www.youtube.com/watch?v=vjSHVMDXJxA)
+- Apr 23, 2022 - [&quot;Extending &amp; customizing Gulp tasks&quot; - preview from the &quot;Mastering the SPFx&quot; course](https://www.youtube.com/watch?v=rXOA_rXuuIc)
+- Apr 23, 2022 - [&quot;Connecting SPFx components with dynamic data&quot; - preview from the &quot;Mastering the SPFx&quot; course](https://www.youtube.com/watch?v=D--_icxQIj0)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
