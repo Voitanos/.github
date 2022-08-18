@@ -14,8 +14,8 @@ Your trusted source for SharePoint Framework & Microsoft 365 developer education
 
 ## 📺 Latest videos from the [Voitanos YouTube channel](https://www.youtube.com/voitanosio)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
+- Aug 17, 2022 - [CloudDev Clarity | Episode 6 - Azure resource tour: what we use, why, and our favorites](https://www.youtube.com/watch?v=o7r7-uzFhCc)
 - Aug 2, 2022 - [&quot;Property panes for client-side web parts&quot; - preview from the &quot;Mastering the SPFx&quot; course](https://www.youtube.com/watch?v=05gpWMmTIu4)
 - Aug 2, 2022 - [&quot;Client-side web parts&quot; - preview from the &quot;Mastering the SPFx&quot; course](https://www.youtube.com/watch?v=1soUa0Ke4cc)
 - Jul 26, 2022 - [How to set up reusable ESLint configs for SharePoint Framework &lpar;SPFx&rpar; projects](https://www.youtube.com/watch?v=PoogTL4kCZY)
-- Jul 19, 2022 - [CloudDev Clarity | Episode 1 - Introducing the show!](https://www.youtube.com/watch?v=rkcnqNoFQYw)
-- Jul 19, 2022 - [CloudDev Clarity | Episode 2 - Julie Turner intro](https://www.youtube.com/watch?v=gM-WPxvT1lo)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
+- Jul 19, 2022 - [CloudDev Clarity | Episode 1 - Introducing the show!](https://www.youtube.com/watch?v=rkcnqNoFQYw)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
