@@ -14,7 +14,7 @@ Your trusted source for SharePoint Framework & Microsoft 365 developer education
 
 ## 📺 Latest videos from the [Voitanos YouTube channel](https://www.youtube.com/voitanosio)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
-- Dec 10, 2022 - [App design, integration, testing, deployment, and monitoring | preview from our MS-600 Exam Prep cou](https://www.youtube.com/watch?v=kLAXOKIRb6s)
+- Dec 10, 2022 - [App design, testing, deployment, and monitoring | preview from our MS-600 Exam Prep course](https://www.youtube.com/watch?v=kLAXOKIRb6s)
 - Nov 22, 2022 - [Customize Microsoft 365 with SharePoint | preview from our MS-600 Exam Prep course](https://www.youtube.com/watch?v=NQF8IrIgnlc)
 - Nov 22, 2022 - [Build apps with Microsoft Graph | preview from our MS-600 Exam Prep course](https://www.youtube.com/watch?v=vj6_Q5kPXQ0)
 - Nov 22, 2022 - [Implement Microsoft identity | preview from our MS-600 Exam Prep course](https://www.youtube.com/watch?v=u38y8YT4L0U)
