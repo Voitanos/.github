@@ -14,8 +14,8 @@ Your trusted source for SharePoint Framework & Microsoft 365 developer education
 
 ## 📺 Latest videos from the [Voitanos YouTube channel](https://www.youtube.com/voitanosio)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
+- Dec 13, 2022 - [Unboxing the v1.16 SharePoint Framework &lpar;SPFx&rpar; release](https://www.youtube.com/watch?v=Sr44wXuo66o)
 - Dec 10, 2022 - [App design, testing, deployment, and monitoring | preview from our MS-600 Exam Prep course](https://www.youtube.com/watch?v=kLAXOKIRb6s)
 - Nov 22, 2022 - [Customize Microsoft 365 with SharePoint | preview from our MS-600 Exam Prep course](https://www.youtube.com/watch?v=NQF8IrIgnlc)
 - Nov 22, 2022 - [Build apps with Microsoft Graph | preview from our MS-600 Exam Prep course](https://www.youtube.com/watch?v=vj6_Q5kPXQ0)
-- Nov 22, 2022 - [Implement Microsoft identity | preview from our MS-600 Exam Prep course](https://www.youtube.com/watch?v=u38y8YT4L0U)
-- Oct 27, 2022 - [Extend Microsoft Teams | preview from our MS-600 Exam Prep course](https://www.youtube.com/watch?v=Or4eb0BXQnA)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
+- Nov 22, 2022 - [Implement Microsoft identity | preview from our MS-600 Exam Prep course](https://www.youtube.com/watch?v=u38y8YT4L0U)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
