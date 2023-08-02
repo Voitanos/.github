@@ -10,8 +10,8 @@
 
 ## 📺 Latest videos from the [Voitanos YouTube channel](https://www.youtube.com/voitanosio)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
+- Aug 1, 2023 - [The ultimate React guide: choosing between class components and hooks](https://www.youtube.com/watch?v=Ep5Y5HiA6Rg)
 - Jul 31, 2023 - [Adaptive Cards - unlocking the power of portable and open content for developers](https://www.youtube.com/watch?v=I_FwH4HC_y8)
 - Jul 31, 2023 - [Why developers love Adaptive Cards for Viva &amp; Microsoft Teams - a primer](https://www.youtube.com/watch?v=MPGJ9v8jylA)
 - Jul 31, 2023 - [Azure Functions - Use Bicep unleash your creativity with VS code extensions resource visualization](https://www.youtube.com/watch?v=Jo6tChC6E6k)
-- Jul 30, 2023 - [Why React Uses Class Components](https://www.youtube.com/watch?v=MDkWxsoPsoo)
-- Jul 30, 2023 - [How React hooks Revolutionized Functional Development for React](https://www.youtube.com/watch?v=4rRyX4Bea5Q)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
+- Jul 30, 2023 - [Why React Uses Class Components](https://www.youtube.com/watch?v=MDkWxsoPsoo)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
