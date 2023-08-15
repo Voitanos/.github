@@ -10,8 +10,8 @@
 
 ## 📺 Latest videos from the [Voitanos YouTube channel](https://www.youtube.com/voitanosio)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
+- Aug 14, 2023 - [Hooks HowTo - The power of React mounting and unmounting components explained](https://www.youtube.com/watch?v=FRINo0wxmlU)
 - Aug 13, 2023 - [Unleash your SharePoint potential - breaking free from class components](https://www.youtube.com/watch?v=e7clRkNUKBk)
 - Aug 11, 2023 - [React Hooks: Class vs. Functional Components &amp; When &amp; Where to use Them?](https://www.youtube.com/watch?v=AUUpzzYuB4k)
 - Aug 10, 2023 - [React Hooks: how to boost your counter with a button click](https://www.youtube.com/watch?v=r4Ga2LPDQp0)
-- Aug 9, 2023 - [The future of React: HOOKing into a better way of development](https://www.youtube.com/watch?v=lVybQvxTr_k)
-- Aug 8, 2023 - [Create Azure Functions using Azure Bicep 💪](https://www.youtube.com/watch?v=gXGAN1fn9Fc)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
+- Aug 9, 2023 - [The future of React: HOOKing into a better way of development](https://www.youtube.com/watch?v=lVybQvxTr_k)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
