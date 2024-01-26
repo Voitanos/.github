@@ -10,8 +10,8 @@
 
 ## 📺 Latest videos from the [Voitanos YouTube channel](https://www.youtube.com/voitanosio)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
-- Jan 18, 2024 - [Navigate ESLint in SharePoint Framework &lpar;SPFx&rpar; Projects + Guidance](https://www.youtube.com/watch?v=khtjxJFJLlY)
+- Jan 25, 2024 - [Sharing Code in SharePoint Framework &lpar;SPFx&rpar; Projects: NPM vs. Library Components](https://www.youtube.com/watch?v=6-IUwzhvN4g)
+- Jan 18, 2024 - [Manage and Disable ESLint Rules in SharePoint Framework &lpar;SPFx&rpar; Projects](https://www.youtube.com/watch?v=khtjxJFJLlY)
 - Jan 17, 2024 - [Microsoft 365 Full-Stack Developer Office Hours - February 2024](https://www.youtube.com/watch?v=bUoh6err1Y8)
 - Jan 11, 2024 - [Why React Hooks: Enhancing Code Performance and Readability](https://www.youtube.com/watch?v=Qy6aRjXpGL4)
-- Jan 8, 2024 - [Zero to Hero: Complete Tutorial on Building SharePoint Embedded Apps](https://www.youtube.com/watch?v=GbHX4ZEe5UY)
-- Jan 2, 2024 - [Don&#39;t Fall Into The Cost Conundrum: Why Teams Apps Can Bring More Long-term Value Than Power Apps](https://www.youtube.com/watch?v=SnsXlFALFEY)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
+- Jan 8, 2024 - [Zero to Hero: Complete Tutorial on Building SharePoint Embedded Apps](https://www.youtube.com/watch?v=GbHX4ZEe5UY)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
