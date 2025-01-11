@@ -14,8 +14,8 @@ Voitanos **teaches web developers how to become an expert in the Microsoft 365 e
 
 ## 📺 Latest videos from the [Voitanos YouTube channel](https://www.youtube.com/voitanosio)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
+- Jan 10, 2025 - [Join me - Microsoft 365 Community Conference - Las Vegas - May 2025](https://www.youtube.com/watch?v=wLpckx1n6Qk)
 - Dec 18, 2024 - [Microsoft 365 Full-Stack Developer Office Hours - December 2024](https://www.youtube.com/watch?v=fzhHWOWRm1I)
 - Dec 17, 2024 - [Microsoft 365 Full-Stack Developer Office Hours - January 2025](https://www.youtube.com/watch?v=-DrtX3USgEs)
 - Nov 20, 2024 - [Microsoft 365 Full-Stack Developer Office Hours - November 2024](https://www.youtube.com/watch?v=aSPEOMH7ntc)
-- Nov 4, 2024 - [Concepts made clear | Introducing Voitanos 2.0](https://www.youtube.com/watch?v=9hi0R4XDGzs)
-- Oct 29, 2024 - [Microsoft 365 Copilot Developer GA - Everything you need to know!](https://www.youtube.com/watch?v=IKG-UEdmP7M)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
+- Nov 4, 2024 - [Concepts made clear | Introducing Voitanos 2.0](https://www.youtube.com/watch?v=9hi0R4XDGzs)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
