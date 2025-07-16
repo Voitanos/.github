@@ -14,8 +14,8 @@ Voitanos **teaches web developers how to become an expert in the Microsoft 365 e
 
 ## 📺 Latest videos from the [Voitanos YouTube channel](https://www.youtube.com/voitanosio)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
+- Jul 15, 2025 - [Microsoft 365 Full-Stack Developer Office Hours - July 2025](https://www.youtube.com/watch?v=7N4PdFHC5RE)
 - Jun 18, 2025 - [SPFx Field Customizers Are Dead: M365’s Betrayal of Developers](https://www.youtube.com/watch?v=WhM1vyEBwpQ)
 - Jun 18, 2025 - [Microsoft 365 Full-Stack Developer Office Hours - June 2025](https://www.youtube.com/watch?v=j-rPLoepQmM)
 - Jun 17, 2025 - [Microsoft 365 Full-Stack Developer Office Hours - July 2025](https://www.youtube.com/watch?v=YGuGpfaTch4)
-- May 28, 2025 - [Microsoft 365 Full-Stack Developer Office Hours - May 2025](https://www.youtube.com/watch?v=5gyBsxakdMk)
-- Apr 30, 2025 - [Will Microsoft&#39;s New Dev Program Be Worth It? My Questions &amp; Wishes](https://www.youtube.com/watch?v=roOpxuJt29o)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
+- May 28, 2025 - [Microsoft 365 Full-Stack Developer Office Hours - May 2025](https://www.youtube.com/watch?v=5gyBsxakdMk)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
