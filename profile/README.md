@@ -6,11 +6,11 @@ Voitanos **teaches web developers how to become an expert in the Microsoft 365 e
 
 ## 📙 Latest articles from [Voitanos](https://www.voitanos.io/blog)
 <!-- VOITANOSBLOG-POST-LIST:START -->
+- Aug 4, 2025 - [Microsoft 365 Copilot vs ChatGPT: What M365 devs should know](https://www.voitanos.io/blog/microsoft-365-copilot-vs-chatgpt-developer-comparison/?utm_medium=rss&utm_source=voitanos.io)
 - Jul 30, 2025 - [Webinar: Microsoft 365 Copilot Custom Engine Agent Overview](https://www.voitanos.io/webinars/microsoft-365-copilot-custom-engine-agent-overview-20251230/?utm_medium=rss&utm_source=voitanos.io)
 - Jul 30, 2025 - [Webinar: TypeSpec: Better Option for M365 Copilot Declarative Agents](https://www.voitanos.io/webinars/microsoft-365-copilot-typespec-for-declarativeagents-20251111/?utm_medium=rss&utm_source=voitanos.io)
 - Jul 30, 2025 - [Webinar: Explore SharePoint Embedded App Development: From Setup to Production Ready Apps](https://www.voitanos.io/webinars/sharepoint-embedded-overview-setup-to-production-apps-20251014/?utm_medium=rss&utm_source=voitanos.io)
-- Jul 30, 2025 - [Webinar: Intro to Customizing Microsoft 365 Copilot with Agents](https://www.voitanos.io/webinars/microsoft-365-copilot-into-to-agents-20250903/?utm_medium=rss&utm_source=voitanos.io)
-- Jul 30, 2025 - [Webinar: Learn SharePoint Framework and Customize Microsoft 365 Apps](https://www.voitanos.io/webinars/sharepoint-framework-customize-extendm365-apps-20250903/?utm_medium=rss&utm_source=voitanos.io)<!-- VOITANOSBLOG-POST-LIST:END -->
+- Jul 30, 2025 - [Webinar: Intro to Customizing Microsoft 365 Copilot with Agents](https://www.voitanos.io/webinars/microsoft-365-copilot-into-to-agents-20250903/?utm_medium=rss&utm_source=voitanos.io)<!-- VOITANOSBLOG-POST-LIST:END -->
 
 ## 📺 Latest videos from the [Voitanos YouTube channel](https://www.youtube.com/voitanosio)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
