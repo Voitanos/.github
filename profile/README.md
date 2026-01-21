@@ -14,8 +14,8 @@ Voitanos **teaches web developers how to become an expert in the Microsoft 365 e
 
 ## 📺 Latest videos from the [Voitanos YouTube channel](https://www.youtube.com/voitanosio)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
+- Jan 20, 2026 - [🙋‍♂️ Microsoft 365 Full-Stack Developer Monthly Office Hours: January 2026](https://www.youtube.com/watch?v=LRWc0HoIt9o)
 - Jan 12, 2026 - [What is Heft and how it replaces Gulp in SPFx projects?](https://www.youtube.com/shorts/8lymk4em5Yg)
 - Jan 10, 2026 - [🙋‍♂️ Microsoft 365 Full-Stack Developer Office Hours: February 2026](https://www.youtube.com/watch?v=jodYC0oN3sI)
 - Jan 9, 2026 - [SPFx v1.22&#39;s New Toolchain: What you need to know: Gulp is OUT, HEFT is IN!](https://www.youtube.com/watch?v=OoPytap543s)
-- Jan 9, 2026 - [What is Heft and how it replaces Gulp in SPFx projects?](https://www.youtube.com/shorts/-Jk-ijY-vGE)
-- Dec 30, 2025 - [🙋‍♂️ Microsoft 365 Full-Stack Developer Monthly Office Hours: January 2026](https://www.youtube.com/watch?v=LRWc0HoIt9o)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
+- Jan 9, 2026 - [What is Heft and how it replaces Gulp in SPFx projects?](https://www.youtube.com/shorts/-Jk-ijY-vGE)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
