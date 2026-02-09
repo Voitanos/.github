@@ -14,8 +14,8 @@ Voitanos **teaches web developers how to become an expert in the Microsoft 365 e
 
 ## 📺 Latest videos from the [Voitanos YouTube channel](https://www.youtube.com/voitanosio)
 <!-- VOITANOSYOUTUBE-POST-LIST:START -->
+- Feb 8, 2026 - [Everyone talks about chatbots and AI agents for Microsoft Teams, but they’re missing the real opport](https://www.youtube.com/shorts/MrUIj5Mu9dg)
+- Feb 8, 2026 - [Everyone talks about chatbots and AI agents for Microsoft Teams, but they’re missing the real opport](https://www.youtube.com/shorts/sABTx1A-8Ig)
 - Feb 7, 2026 - [Everyone talks about chatbots and AI agents for Microsoft Teams, but they’re missing the real opport](https://www.youtube.com/shorts/1TvLhBKVcXo)
 - Feb 7, 2026 - [Everyone talks about chatbots and AI agents for Microsoft Teams, but they’re missing the real opport](https://www.youtube.com/shorts/Dw_Myc6tBoc)
-- Feb 6, 2026 - [Everyone talks about chatbots and AI agents for Microsoft Teams, but they’re missing the real opport](https://www.youtube.com/shorts/QldwOZP2wRk)
-- Feb 6, 2026 - [Everyone talks about chatbots and AI agents for Microsoft Teams, but they’re missing the real opport](https://www.youtube.com/shorts/CnxGER-An3g)
-- Feb 5, 2026 - [Everyone talks about chatbots and AI agents for Microsoft Teams, but they’re missing the real opport](https://www.youtube.com/shorts/ealXpGmHfeM)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
+- Feb 6, 2026 - [Everyone talks about chatbots and AI agents for Microsoft Teams, but they’re missing the real opport](https://www.youtube.com/shorts/QldwOZP2wRk)<!-- VOITANOSYOUTUBE-POST-LIST:END -->
