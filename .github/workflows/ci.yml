@@ -22,16 +22,6 @@ jobs:
           feed_list: "https://www.voitanos.io/index.xml"
           comment_tag_name: "VOITANOSBLOG-POST-LIST"
           commit_message: "🤖♻️ Update README with Voitanos' latest blog posts"
-          max_post_count: "5"
-          date_format: "mmm d, yyyy"
-          template: '$newline- $date - [$title]($url)'
-      - name: Update Voitanos' YouTube videos
-        uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          readme_path: ./profile/README.md
-          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCXeym1FGW2uTlNjYqTCVo0g"
-          comment_tag_name: "VOITANOSYOUTUBE-POST-LIST"
-          commit_message: "🤖♻️ Update README with Voitanos' latest videos on YouTube channel"
-          max_post_count: "5"
+          max_post_count: "10"
           date_format: "mmm d, yyyy"
           template: '$newline- $date - [$title]($url)'
