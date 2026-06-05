@@ -9,6 +9,7 @@ Voitanos **teaches web developers how to become an expert in the Microsoft 365 e
 
 ## 📙 Latest articles from [Voitanos](https://www.voitanos.io/blog)
 <!-- VOITANOSBLOG-POST-LIST:START -->
+- Jun 4, 2026 - [Join Me @ ESPC in Amsterdam in DEC 2026 - M365 Copilot Dev](https://www.voitanos.io/blog/joinme-espc-amsterdam-2026/?utm_medium=rss&utm_source=voitanos.io)
 - May 23, 2026 - [Join me - TechCon365 - Seattle, August 2026 for Microsoft 365 Copilot &amp; AI Dev](https://www.voitanos.io/blog/joinme-techcon365-seattle-2026/?utm_medium=rss&utm_source=voitanos.io)
 - May 11, 2026 - [Voitanos Is Closing: What Happens Next](https://www.voitanos.io/blog/voitanos-closing-2026/?utm_medium=rss&utm_source=voitanos.io)
 - May 10, 2026 - [Replicate Your Hands, Not Your Brain: When to Automate with AI](https://www.voitanos.io/blog/replicate-your-hands-not-your-brain/?utm_medium=rss&utm_source=voitanos.io)
@@ -17,5 +18,4 @@ Voitanos **teaches web developers how to become an expert in the Microsoft 365 e
 - Apr 13, 2026 - [Webinar: Microsoft 365 Fullstack Dev&#39;s Office Hours - April 2026](https://www.voitanos.io/webinars/microsoft-365-full-stack-office-hours-2026-04-april/?utm_medium=rss&utm_source=voitanos.io)
 - Apr 10, 2026 - [Evaluating Your Microsoft 365 Copilot Agent Options: Webinar Recap](https://www.voitanos.io/blog/microsoft-365-copilot-evaluate-your-agent-options-webinar-recap-20260408/?utm_medium=rss&utm_source=voitanos.io)
 - Mar 23, 2026 - [My Thoughts on Vibe Coding vs. Agentic Engineering](https://www.voitanos.io/blog/vibe-coding-vs-agentic-engineering/?utm_medium=rss&utm_source=voitanos.io)
-- Mar 17, 2026 - [Microsoft 365 Agents Toolkit v6.6.0 Release Review](https://www.voitanos.io/blog/microsoft-365-agents-toolkit-v6-6-0-release-review/?utm_medium=rss&utm_source=voitanos.io)
-- Mar 16, 2026 - [Webinar: Evaluate your Microsoft 365 Copilot Agent Options](https://www.voitanos.io/webinars/microsoft-365-copilot-evaluate-your-agent-options-20260408/?utm_medium=rss&utm_source=voitanos.io)<!-- VOITANOSBLOG-POST-LIST:END -->
+- Mar 17, 2026 - [Microsoft 365 Agents Toolkit v6.6.0 Release Review](https://www.voitanos.io/blog/microsoft-365-agents-toolkit-v6-6-0-release-review/?utm_medium=rss&utm_source=voitanos.io)<!-- VOITANOSBLOG-POST-LIST:END -->
