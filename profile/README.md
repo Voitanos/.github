@@ -9,6 +9,7 @@ Voitanos **teaches web developers how to become an expert in the Microsoft 365 e
 
 ## 📙 Latest articles from [Voitanos](https://www.voitanos.io/blog)
 <!-- VOITANOSBLOG-POST-LIST:START -->
+- Jun 26, 2026 - [What are MCP Apps? Interactive Widgets in Copilot Chat](https://www.voitanos.io/blog/microsoft-365-copilot-mcp-apps-01-interactive-widgets/?utm_medium=rss&utm_source=voitanos.io)
 - Jun 6, 2026 - [Customize Your Claude Code Status Line to Manage Token Burn](https://www.voitanos.io/blog/claude-code-cli-statusline/?utm_medium=rss&utm_source=voitanos.io)
 - Jun 4, 2026 - [Join Me @ ESPC in Amsterdam in DEC 2026 - M365 Copilot Dev](https://www.voitanos.io/blog/joinme-espc-amsterdam-2026/?utm_medium=rss&utm_source=voitanos.io)
 - May 23, 2026 - [Join me - TechCon365 - Seattle, August 2026 for Microsoft 365 Copilot &amp; AI Dev](https://www.voitanos.io/blog/joinme-techcon365-seattle-2026/?utm_medium=rss&utm_source=voitanos.io)
@@ -17,5 +18,4 @@ Voitanos **teaches web developers how to become an expert in the Microsoft 365 e
 - Apr 15, 2026 - [Developer&#39;s guide to declarative agents for Microsoft 365 Copilot: Webinar Recap](https://www.voitanos.io/blog/microsoft-365-copilot-developers-guide-declarative-agents-webinar-recap-20260415/?utm_medium=rss&utm_source=voitanos.io)
 - Apr 14, 2026 - [Microsoft 365 Copilot Declarative Agents What&#39;s New - April 2026](https://www.voitanos.io/blog/microsoft-365-copilot-declarative-agents-whats-new-202604-april-2026/?utm_medium=rss&utm_source=voitanos.io)
 - Apr 13, 2026 - [Webinar: Microsoft 365 Fullstack Dev&#39;s Office Hours - April 2026](https://www.voitanos.io/webinars/microsoft-365-full-stack-office-hours-2026-04-april/?utm_medium=rss&utm_source=voitanos.io)
-- Apr 10, 2026 - [Evaluating Your Microsoft 365 Copilot Agent Options: Webinar Recap](https://www.voitanos.io/blog/microsoft-365-copilot-evaluate-your-agent-options-webinar-recap-20260408/?utm_medium=rss&utm_source=voitanos.io)
-- Mar 23, 2026 - [My Thoughts on Vibe Coding vs. Agentic Engineering](https://www.voitanos.io/blog/vibe-coding-vs-agentic-engineering/?utm_medium=rss&utm_source=voitanos.io)<!-- VOITANOSBLOG-POST-LIST:END -->
+- Apr 10, 2026 - [Evaluating Your Microsoft 365 Copilot Agent Options: Webinar Recap](https://www.voitanos.io/blog/microsoft-365-copilot-evaluate-your-agent-options-webinar-recap-20260408/?utm_medium=rss&utm_source=voitanos.io)<!-- VOITANOSBLOG-POST-LIST:END -->
