@@ -9,6 +9,7 @@ Voitanos **teaches web developers how to become an expert in the Microsoft 365 e
 
 ## 📙 Latest articles from [Voitanos](https://www.voitanos.io/blog)
 <!-- VOITANOSBLOG-POST-LIST:START -->
+- Jun 26, 2026 - [Wire an MCP Apps server into the F5 debug experience of the M365 Agents Toolkit](https://www.voitanos.io/blog/microsoft-365-copilot-mcp-apps-04-f5-debug-agents-toolkit/?utm_medium=rss&utm_source=voitanos.io)
 - Jun 26, 2026 - [Integrate an MCP Apps server into a Microsoft 365 Copilot declarative agent](https://www.voitanos.io/blog/microsoft-365-copilot-mcp-apps-03-declarative-agent-integration/?utm_medium=rss&utm_source=voitanos.io)
 - Jun 26, 2026 - [Add an MCP server with UI widgets to a Microsoft 365 Copilot declarative agent project](https://www.voitanos.io/blog/microsoft-365-copilot-mcp-apps-02-create-mcp-server-widgets/?utm_medium=rss&utm_source=voitanos.io)
 - Jun 26, 2026 - [What are MCP Apps? Interactive Widgets in Copilot Chat](https://www.voitanos.io/blog/microsoft-365-copilot-mcp-apps-01-interactive-widgets/?utm_medium=rss&utm_source=voitanos.io)
@@ -17,5 +18,4 @@ Voitanos **teaches web developers how to become an expert in the Microsoft 365 e
 - May 23, 2026 - [Join me - TechCon365 - Seattle, August 2026 for Microsoft 365 Copilot &amp; AI Dev](https://www.voitanos.io/blog/joinme-techcon365-seattle-2026/?utm_medium=rss&utm_source=voitanos.io)
 - May 11, 2026 - [Voitanos Is Closing: What Happens Next](https://www.voitanos.io/blog/voitanos-closing-2026/?utm_medium=rss&utm_source=voitanos.io)
 - May 10, 2026 - [Replicate Your Hands, Not Your Brain: When to Automate with AI](https://www.voitanos.io/blog/replicate-your-hands-not-your-brain/?utm_medium=rss&utm_source=voitanos.io)
-- Apr 15, 2026 - [Developer&#39;s guide to declarative agents for Microsoft 365 Copilot: Webinar Recap](https://www.voitanos.io/blog/microsoft-365-copilot-developers-guide-declarative-agents-webinar-recap-20260415/?utm_medium=rss&utm_source=voitanos.io)
-- Apr 14, 2026 - [Microsoft 365 Copilot Declarative Agents What&#39;s New - April 2026](https://www.voitanos.io/blog/microsoft-365-copilot-declarative-agents-whats-new-202604-april-2026/?utm_medium=rss&utm_source=voitanos.io)<!-- VOITANOSBLOG-POST-LIST:END -->
+- Apr 15, 2026 - [Developer&#39;s guide to declarative agents for Microsoft 365 Copilot: Webinar Recap](https://www.voitanos.io/blog/microsoft-365-copilot-developers-guide-declarative-agents-webinar-recap-20260415/?utm_medium=rss&utm_source=voitanos.io)<!-- VOITANOSBLOG-POST-LIST:END -->
