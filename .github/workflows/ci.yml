@@ -15,13 +15,13 @@ jobs:
         uses: actions/checkout@v2
         with:
           fetch-depth: 0
-      - name: Update Voitanos' blog posts
+      - name: Update AC's blog posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           readme_path: ./profile/README.md
-          feed_list: "https://www.voitanos.io/index.xml"
-          comment_tag_name: "VOITANOSBLOG-POST-LIST"
-          commit_message: "🤖♻️ Update README with Voitanos' latest blog posts"
+          feed_list: "https://www.andrewconnell.com/articles/rss.xml"
+          comment_tag_name: "ANDREWCONNELLBLOG-POST-LIST"
+          commit_message: "🤖♻️ Update README with AC's latest blog posts"
           max_post_count: "10"
           date_format: "mmm d, yyyy"
           template: '$newline- $date - [$title]($url)'
