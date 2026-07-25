@@ -1,14 +1,17 @@
-## Hi, welcome to Voitanos! 👋🏼
+## Hi, I'm Andrew, the guy behind Voitanos 👋🏼
 
-Voitanos **teaches web developers how to become an expert in the Microsoft 365 ecosystem**. From revealing blind-spots they didn't know they had until they worked with Voitanos, to lightbulbs turning on, unlocking things they couldn't figure out, clarifying things that were confusing before, and demystifying what seemed hard to make it simple, our purpose is this: **concepts made clear**. By [Andrew Connell](https://www.andrewconnell.com).
+I'm a Principal Software Engineer at [AvePoint](https://www.avepoint.com), where I focus on agentic engineering: using AI to build and ship product to market with more velocity than traditional development allows. I'm a [23-year recipient of Microsoft's MVP Award](https://andrewconnell.social/mvp) and, for the past two decades, have specialized in the Microsoft 365 Developer and Microsoft Azure ecosystems.
+
+In 2016, I founded [Voitanos](https://www.voitanos.io), a training platform that has helped thousands of developers become experts in Microsoft 365 through live workshops, on-demand video courses, and a newsletter with over 22,000 subscribers. *Voitanos will close on October 1, 2026, following my move to join AvePoint in May 2026.*
+
 
 > [!NOTE]
 > Voitanos is closing on October 1, 2026. Learn more from our announcement: [Voitanos Is Closing: What Happens Next](https://www.voitanos.io/blog/voitanos-closing-2026/).
 
 [![](https://raw.githubusercontent.com/Voitanos/.github/main/images/youtube.svg)](http://voitanos.social/youtube) [![](https://raw.githubusercontent.com/Voitanos/.github/main/images/linkedin.svg)](http://voitanos.social/linkedin) [![](https://raw.githubusercontent.com/Voitanos/.github/main/images/threads.svg)](http://voitanos.social/threads) [![](https://raw.githubusercontent.com/Voitanos/.github/main/images/bluesky.svg)](http://voitanos.social/bluesky) [![](https://raw.githubusercontent.com/Voitanos/.github/main/images/facebook.svg)](http://voitanos.social/facebook) [![](https://raw.githubusercontent.com/Voitanos/.github/main/images/instagram.svg)](http://voitanos.social/instagram) [![](https://raw.githubusercontent.com/Voitanos/.github/main/images/github.svg)](http://voitanos.social/github) [![](https://raw.githubusercontent.com/Voitanos/.github/main/images/mail.svg)](https://www.voitanos.io/newsletter) [![](https://raw.githubusercontent.com/Voitanos/.github/main/images/rss.svg)](https://www.voitanos.io/blog)
 
-## 📙 Latest articles from [Voitanos](https://www.voitanos.io/blog)
-<!-- VOITANOSBLOG-POST-LIST:START -->
+## 📙 Latest articles from [Andrew Connell](https://www.andrewconnell.com/)
+<!-- MYBLOG-POST-LIST:START -->
 - Jun 26, 2026 - [Wire an MCP Apps server into the F5 debug experience of the M365 Agents Toolkit](https://www.voitanos.io/blog/microsoft-365-copilot-mcp-apps-04-f5-debug-agents-toolkit/?utm_medium=rss&utm_source=voitanos.io)
 - Jun 26, 2026 - [Integrate an MCP Apps server into a Microsoft 365 Copilot declarative agent](https://www.voitanos.io/blog/microsoft-365-copilot-mcp-apps-03-declarative-agent-integration/?utm_medium=rss&utm_source=voitanos.io)
 - Jun 26, 2026 - [Add an MCP server with UI widgets to a Microsoft 365 Copilot declarative agent project](https://www.voitanos.io/blog/microsoft-365-copilot-mcp-apps-02-create-mcp-server-widgets/?utm_medium=rss&utm_source=voitanos.io)
